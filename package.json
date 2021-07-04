@@ -1,0 +1,19 @@
+{
+  "name": "buy-me-a-coffee",
+  "version": "1.0.0",
+  "description": "Buy me a coffee on polygon",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lakshay",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "web3": "^1.4.0"
+  }
+}
